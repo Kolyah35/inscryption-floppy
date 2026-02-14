@@ -20,7 +20,4 @@ void set_color_int(int color);
 void set_color(uint8_t r, uint8_t g, uint8_t b);
 
 void fill_rect(int x, int y, int w, int h);
-
-void draw_hline(int x0, int y, int x1, uint8_t r, uint8_t g, uint8_t b);
-
 #endif

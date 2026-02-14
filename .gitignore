@@ -1,3 +1,5 @@
-resources/
+.vscode
+resources/*
+build/
 !resources/packit.py
 !resources/ASSETS_TREE.txt
