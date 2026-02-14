@@ -33,5 +33,5 @@ Since rendering is done entirely in a software framebuffer, reproducing those ef
 
 However, nothing prevents you from running this game on an actual CRT monitor or TV ;)
 
-## Screenshots
-<img width="100%" src="logo_screen.png" alt="Logo screen schreenshot"/>
+## Preview
+<img width="100%" src="preview.gif" alt="Logo screen preview"/>

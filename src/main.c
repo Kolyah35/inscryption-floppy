@@ -39,6 +39,12 @@ int main() {
         if (current_state != NULL) {
             current_state->draw();
         }
+
+        set_color(12, 10, 6, 25);
+
+        for (int i = 0; i < FB_WIDTH; i++) {
+            if (i % 2) draw_hline(0, i, FB_WIDTH);
+        }
         
         window_draw();
     }
