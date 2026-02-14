@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Coding\\Projects\\inscryption-floppy\\build",
+            "binaryPath": "d:\\Coding\\Projects\\inscryption-floppy\\build\\inscryption.exe",
+            "binaryArgs": []
+        }
+    ]
+}
